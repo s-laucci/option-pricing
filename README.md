@@ -8,7 +8,7 @@ The goal is to show that the Monte Carlo estimate converges to the Black-Scholes
 
 ## Results
 
-For a call with $S_0 = 100$, $K = 100$, $T = 1$, $r = 5\%$, $\sigma = 20\%$:
+For an at-the-money call with S₀ = 100, K = 100, T = 1, r = 5%, σ = 20%:
 
 | Method | Price |
 |---|---|
